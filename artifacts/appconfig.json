@@ -1,0 +1,12 @@
+{
+  "name": "fsmsample",
+  "provider": "Ideo Demo B.V.",
+  "description": "FSM Extension Sample",
+  "version": "0.0.0.1",
+  "icon": "",
+  "useShellSDK": true,
+  "dockerRegistry": "psimonsideo",
+  "helmChartVersion": "1.0.0",
+  "parameters": [],
+  "outletPositions": []
+}
