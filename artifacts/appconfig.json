@@ -1,8 +1,8 @@
 {
-  "name": "fsmsample",
+  "name": "fsmdemo",
   "provider": "Ideo Demo B.V.",
-  "description": "FSM Extension Sample",
-  "version": "0.0.0.1",
+  "description": "FSM Extension Demo",
+  "version": "0.0.0.2",
   "icon": "",
   "useShellSDK": true,
   "dockerRegistry": "psimonsideo",
